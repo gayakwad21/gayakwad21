@@ -151,15 +151,7 @@
   <b>💼 Open to Work — Ready to Learn, Contribute & Grow 🚀</b>
 </p>
 
----
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayakwad21&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <h3 align="center">
   🚀 Building • Learning • Improving
