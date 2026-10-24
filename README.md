@@ -85,6 +85,13 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+### VisioFlow — Computer Vision Workflow & Analysis Platform 
+** Tech Stack: Python, Django, DRF, FastAPI, MySQL, OpenCV, JavaScript
+-	Developed a full-stack platform for managing image/video projects and configuring computer-vision workflows.
+-	Integrated Django REST APIs with a FastAPI service to process images and videos using OpenCV.
+-	Implemented pipeline versioning, background job tracking, processing history, and analytics using MySQL.
+
+
 ### 💊 MediNest – Full Stack Online Pharmacy
 
 **Python • Django • MySQL • JavaScript • REST APIs • HTML5 • CSS3**
